@@ -177,6 +177,9 @@ do_install () {
 	  imx8mmea-ucom)
 		install -m 755 ${S}/switch_module_imx8mmea-ucom.sh ${D}/usr/sbin/switch_module.sh
 		;;
+	  imx8mn-rl256)
+		install -m 755 ${S}/switch_module_imx8mnea-ucom.sh ${D}/usr/sbin/switch_module.sh
+		;;
 	  imx8mnea-ucom)
 		install -m 755 ${S}/switch_module_imx8mnea-ucom.sh ${D}/usr/sbin/switch_module.sh
 		;;
