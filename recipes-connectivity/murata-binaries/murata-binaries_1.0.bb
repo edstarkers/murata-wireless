@@ -21,6 +21,7 @@ SRC_URI = " \
 	file://switch_module_imx7ulpea-ucom.sh \
 	file://switch_module_imx8mmea-ucom.sh \
 	file://switch_module_imx8mnea-ucom.sh \
+	file://switch_module_imx8mn-rl256.sh \
 	file://switch_module_imx8mqea-com.sh \
 "
 SRC_URI += " \
